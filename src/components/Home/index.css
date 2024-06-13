@@ -1,0 +1,35 @@
+.home-container {
+  background-color: #152850;
+  height: 100vh;
+}
+
+.card-container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.header {
+  display: flex;
+  justify-content: space-between;
+  padding: 10px;
+}
+
+.logo {
+  margin: 5px;
+  width: 100px;
+}
+
+.logout-btn {
+  color: white;
+  border: 1px solid white;
+  padding: 8px;
+  background-color: transparent;
+  cursor: pointer;
+  height: 35px;
+}
+
+.card-heading {
+  color: white;
+}
